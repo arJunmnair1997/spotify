@@ -1,0 +1,24 @@
+body{
+
+	background-color: #59c1bd;
+	font-family: 	sans-serif;	
+}
+
+h1, p{
+	font-family: candara;
+}
+table,th,td{
+
+	border-style: solid;
+	border-color: #59c1bd;
+	border-collapse: collapse;
+	background-color: #a0e4cb;
+	text-align: 	center;
+	height: 	35px;
+}
+table{
+	width: 	100%;
+}
+img{
+	width: 100px;
+}
